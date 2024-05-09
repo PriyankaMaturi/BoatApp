@@ -1,0 +1,29 @@
+<app-navbar></app-navbar>
+ <div class="container" *ngFor="let productitem of Products">
+  <div class="card dark">
+    <img [src]="'./../assets/images/' + img[productitem.product.id - 1]" class="card-img-top" alt="...">
+        <div class="card-body">
+      <div class="text-section">
+        <h5 class="card-title">{{productitem.product.name}}</h5>
+        <p class="card-text"> {{productitem.product.description}}</p>
+      </div>
+      <div class="cta-section">
+        <div>{{productitem.product.price * productitem.productCount}}</div>
+        <div class="count">
+          <!--  {{ productitem.productCount > 1 ? '-' : 'Delete' }} -->
+        <button (click)="decreaseItem(productitem.product.id)">-</button>
+        <input type="text" [value]="productitem.productCount">
+      <!--  <input type="text" value="0" [(ngModel)]="product.count"> -->
+        <button (click)="increaseItem(productitem.product.id)">+</button>
+        <mat-icon (click)="deleteCartItem(productitem.product.id)">delete</mat-icon>
+
+      </div>
+      </div>
+    </div> 
+  </div>
+</div>
+<div class="totalPrice">
+Total Price : {{getTotalPrice()}}  
+</div>
+ 
+ 

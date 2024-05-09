@@ -1,0 +1,58 @@
+ <div class="main">
+ <form [formGroup]="signup">
+    <mat-form-field>
+        <mat-label>firstname</mat-label>
+<input type="text" formControlName="firstname" matInput> <br>
+</mat-form-field>
+<div *ngIf="signup.get('firstname')?.errors?.['pattern']">Only alphabets are allowed </div>
+<div *ngIf="signup.get('firstname')?.errors?.['minlength']">length must be atleast 3 </div>
+ <br>
+
+<mat-form-field>
+ <mat-label>lastname</mat-label>   
+<input type="text" formControlName="lastname" matInput>
+</mat-form-field>
+<div *ngIf="signup.get('lastname')?.errors?.['pattern']">Only alphabets are allowed </div>
+<div *ngIf="signup.get('lastname')?.errors?.['minlength']">length must be atleast 3 </div>
+ <br>
+
+<mat-form-field>
+ <mat-label>Email Address</mat-label>
+  <input type="text" formControlName="email" matInput><br>
+</mat-form-field>
+<div *ngIf="signup.get('email')?.errors?.['email']">Please enter a valid email address</div>
+ <br>
+
+<mat-form-field>
+<mat-label>Password</mat-label> 
+<input type="password" formControlName="password" matInput><br>
+</mat-form-field>
+<div *ngIf="signup.get('password')?.errors?.['maxlength']">Length of the Password must be between 6 and 15</div>
+<div *ngIf="signup.get('password')?.errors?.['pattern'] ">
+    <ul>
+        <li>Atleast 1 uppercase letter</li>
+        <li>Atleast 1 lowercase letter</li>
+        <li>Atleast 1 Number</li>
+        <li>Atleast 1 symbol</li>
+        <li>Minimum length must be 6 </li>
+    </ul>
+</div>
+  <br>
+
+<mat-form-field>
+ <mat-label>Phone Number</mat-label>  
+<input type="text" formControlName="phonenumber" matInput><br>
+</mat-form-field> 
+<div *ngIf="signup.get('phonenumber')?.errors?.['pattern'] "> Only digits are allowed. </div>
+<br>
+
+    <mat-form-field>
+ <mat-label>Address</mat-label> 
+ <input type="text" formControlName="address" matInput><br>
+</mat-form-field>
+     <br>
+
+<button (click)="onSignUp()" [disabled]="signup.invalid" mat-flat-button color="primary">SIGN UP</button>
+Already have an account? <a routerLink="/login">Login</a> 
+ </form> 
+</div>

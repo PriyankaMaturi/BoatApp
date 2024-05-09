@@ -1,0 +1,40 @@
+.main{
+    width : 35vw;
+    margin: 0 auto;
+}
+
+.info {
+    display: flex;
+    justify-content:center;
+    align-items: center; 
+    
+} 
+
+.info div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 50%;
+    border: 2px solid pink;
+}
+
+ul{
+    list-style: none;
+}
+
+
+
+
+
+
+
+ 
+  
+  .example-header-image {
+    background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+    background-size: cover;
+  }
+
+
+  

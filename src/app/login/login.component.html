@@ -1,0 +1,16 @@
+<div class="main">
+<form [formGroup]="login" >
+    <mat-form-field>
+     <mat-label>username</mat-label>
+    <input type="text" formControlName="uname" matInput> 
+</mat-form-field> <br>
+       <div *ngIf="login.get('uname')?.errors?.['email']">Please enter a valid email address</div>
+       <mat-form-field>
+  <mat-label>Password</mat-label>  
+     <input type="password" formControlName="password" matInput> 
+</mat-form-field> <br>
+     <button (click)="onLogin()" [disabled]="login.invalid" mat-flat-button color="primary">LOGIN</button> <br>
+     Donnot have an account?<a routerLink="/signup">Signup</a>
+ </form>
+</div>
+  

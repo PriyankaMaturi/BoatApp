@@ -1,0 +1,8 @@
+<mat-toolbar color="primary">
+    <span (click)="navigateToProducts()" class="icon">BOAT</span>
+    <span class="spacer"></span>
+     <a mat-button [routerLink]="isLoggedIn? '' : '/login'" (click)="isLoggedIn? logout() : ''" >{{display}} </a>
+     <a mat-button routerLink="/cart"> 
+        <mat-icon>shopping_cart</mat-icon>
+     </a>
+   </mat-toolbar>

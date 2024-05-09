@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Boat-Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0986195D-59FF-4EB5-AE85-EDB9B80E7E35}|Boat-Backend\\Boat-Backend.csproj|d:\\boat-backend\\boat-backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0986195D-59FF-4EB5-AE85-EDB9B80E7E35}|Boat-Backend\\Boat-Backend.csproj|solutionrelative:boat-backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0986195D-59FF-4EB5-AE85-EDB9B80E7E35}|Boat-Backend\\Boat-Backend.csproj|d:\\boat-backend\\boat-backend\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0986195D-59FF-4EB5-AE85-EDB9B80E7E35}|Boat-Backend\\Boat-Backend.csproj|solutionrelative:boat-backend\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0986195D-59FF-4EB5-AE85-EDB9B80E7E35}|Boat-Backend\\Boat-Backend.csproj|d:\\boat-backend\\boat-backend\\models\\productwithcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0986195D-59FF-4EB5-AE85-EDB9B80E7E35}|Boat-Backend\\Boat-Backend.csproj|solutionrelative:boat-backend\\models\\productwithcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0986195D-59FF-4EB5-AE85-EDB9B80E7E35}|Boat-Backend\\Boat-Backend.csproj|d:\\boat-backend\\boat-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0986195D-59FF-4EB5-AE85-EDB9B80E7E35}|Boat-Backend\\Boat-Backend.csproj|solutionrelative:boat-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0986195D-59FF-4EB5-AE85-EDB9B80E7E35}|Boat-Backend\\Boat-Backend.csproj|d:\\boat-backend\\boat-backend\\contexts\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0986195D-59FF-4EB5-AE85-EDB9B80E7E35}|Boat-Backend\\Boat-Backend.csproj|solutionrelative:boat-backend\\contexts\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0986195D-59FF-4EB5-AE85-EDB9B80E7E35}|Boat-Backend\\Boat-Backend.csproj|d:\\boat-backend\\boat-backend\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0986195D-59FF-4EB5-AE85-EDB9B80E7E35}|Boat-Backend\\Boat-Backend.csproj|solutionrelative:boat-backend\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0986195D-59FF-4EB5-AE85-EDB9B80E7E35}|Boat-Backend\\Boat-Backend.csproj|d:\\boat-backend\\boat-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0986195D-59FF-4EB5-AE85-EDB9B80E7E35}|Boat-Backend\\Boat-Backend.csproj|solutionrelative:boat-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0986195D-59FF-4EB5-AE85-EDB9B80E7E35}|Boat-Backend\\Boat-Backend.csproj|d:\\boat-backend\\boat-backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0986195D-59FF-4EB5-AE85-EDB9B80E7E35}|Boat-Backend\\Boat-Backend.csproj|solutionrelative:boat-backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0986195D-59FF-4EB5-AE85-EDB9B80E7E35}|Boat-Backend\\Boat-Backend.csproj|d:\\boat-backend\\boat-backend\\models\\jwtoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0986195D-59FF-4EB5-AE85-EDB9B80E7E35}|Boat-Backend\\Boat-Backend.csproj|solutionrelative:boat-backend\\models\\jwtoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0986195D-59FF-4EB5-AE85-EDB9B80E7E35}|Boat-Backend\\Boat-Backend.csproj|d:\\boat-backend\\boat-backend\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0986195D-59FF-4EB5-AE85-EDB9B80E7E35}|Boat-Backend\\Boat-Backend.csproj|solutionrelative:boat-backend\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Boat-Backend\\Boat-Backend\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Boat-Backend\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Boat-Backend\\Boat-Backend\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Boat-Backend\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAN4AAAAAAAAAAAAhwO0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T13:04:31.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductWithCount.cs",
+              "DocumentMoniker": "D:\\Boat-Backend\\Boat-Backend\\Models\\ProductWithCount.cs",
+              "RelativeDocumentMoniker": "Boat-Backend\\Models\\ProductWithCount.cs",
+              "ToolTip": "D:\\Boat-Backend\\Boat-Backend\\Models\\ProductWithCount.cs",
+              "RelativeToolTip": "Boat-Backend\\Models\\ProductWithCount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:54:43.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "D:\\Boat-Backend\\Boat-Backend\\contexts\\UserContext.cs",
+              "RelativeDocumentMoniker": "Boat-Backend\\contexts\\UserContext.cs",
+              "ToolTip": "D:\\Boat-Backend\\Boat-Backend\\contexts\\UserContext.cs",
+              "RelativeToolTip": "Boat-Backend\\contexts\\UserContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T08:13:32.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "product.cs",
+              "DocumentMoniker": "D:\\Boat-Backend\\Boat-Backend\\Models\\product.cs",
+              "RelativeDocumentMoniker": "Boat-Backend\\Models\\product.cs",
+              "ToolTip": "D:\\Boat-Backend\\Boat-Backend\\Models\\product.cs",
+              "RelativeToolTip": "Boat-Backend\\Models\\product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T10:23:48.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Boat-Backend\\Boat-Backend\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Boat-Backend\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Boat-Backend\\Boat-Backend\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Boat-Backend\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwBoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T04:37:35.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JwtOption.cs",
+              "DocumentMoniker": "D:\\Boat-Backend\\Boat-Backend\\Models\\JwtOption.cs",
+              "RelativeDocumentMoniker": "Boat-Backend\\Models\\JwtOption.cs",
+              "ToolTip": "D:\\Boat-Backend\\Boat-Backend\\Models\\JwtOption.cs",
+              "RelativeToolTip": "Boat-Backend\\Models\\JwtOption.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T11:05:47.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Boat-Backend\\Boat-Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "Boat-Backend\\appsettings.json",
+              "ToolTip": "D:\\Boat-Backend\\Boat-Backend\\appsettings.json",
+              "RelativeToolTip": "Boat-Backend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-03T11:01:51.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "login.cs",
+              "DocumentMoniker": "D:\\Boat-Backend\\Boat-Backend\\Models\\login.cs",
+              "RelativeDocumentMoniker": "Boat-Backend\\Models\\login.cs",
+              "ToolTip": "D:\\Boat-Backend\\Boat-Backend\\Models\\login.cs",
+              "RelativeToolTip": "Boat-Backend\\Models\\login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T05:55:24.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Boat-Backend\\Boat-Backend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Boat-Backend\\Models\\User.cs",
+              "ToolTip": "D:\\Boat-Backend\\Boat-Backend\\Models\\User.cs",
+              "RelativeToolTip": "Boat-Backend\\Models\\User.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T09:22:26.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Boat-Backend\\Boat-Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Boat-Backend\\Program.cs",
+              "ToolTip": "D:\\Boat-Backend\\Boat-Backend\\Program.cs",
+              "RelativeToolTip": "Boat-Backend\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T06:12:05.637Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
